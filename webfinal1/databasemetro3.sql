@@ -68,4 +68,4 @@ create table details (
 );
 
 insert into details values
-	(118734, 'hello', 'world', 1123456789, 123456781234, 20210522, 'A', 'F');
+	(118734, 'hello', 'world', 1123456789, 20210522, 'A', 'F');
